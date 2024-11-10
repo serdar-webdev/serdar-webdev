@@ -38,7 +38,7 @@
 ## Contacts
 
 - [Linkedin](https://www.linkedin.com/in/serdar-webdev/)
-- Gmail: [serdargurbanmyradow953@gmail.com](mailto:serdar.webdev@gmail.com)
+- Gmail: [serdar.webdev@gmail.com](mailto:serdar.webdev@gmail.com)
 - [Telegram](https://t.me/serdarWeb)
 - Here more info about me: CV ( soon )
 - Portfolio Website ( soon )
